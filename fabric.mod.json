@@ -1,0 +1,13 @@
+{
+	"schemaVersion": 1,
+	"id": "vanity_baguette",
+	"version": "1.0.0",
+	"environment": "*",
+	"name": "Vanity: La Baguette",
+	"description": "Adds la baguette",
+	"authors": [
+		"Chai"
+	],
+	"license": "MIT",
+	"icon": "pack.png"
+}

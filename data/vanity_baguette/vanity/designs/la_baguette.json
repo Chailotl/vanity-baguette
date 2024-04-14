@@ -1,0 +1,15 @@
+{
+	"model": "vanity_baguette:baguette_design",
+	"type": "sellable",
+	"styles": {
+		"default": [
+			{
+				"item": "minecraft:wooden_sword",
+				"assets": {
+					"default": "vanity_baguette:la_baguette_gui",
+					"hand": "vanity_baguette:la_baguette_handheld"
+				}
+			}
+		]
+	}
+}
